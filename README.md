@@ -25,13 +25,22 @@ A.Spreadsheets cleaning data:
 
 
 B. SQL Analysis:
+
  
   1.'Average Imdb score by Type'
+  
   2.'Top 20 high rated movies(8.0+) on Netflix '
+  
   3.'Top 10 Movies and Shows'
+  
   4.'Analysis of Actor Participations in Highly Voted Movies '
+  
   5.'Analysis of Movie Cast Sizes and IMDb Scores'
+  
   6.'Analysis of Title Distribution by Genre and Type (Movies vs. Shows)'
+  
   7.'Comparison of Total Votes for Movies and Shows by Production Country'
+  
   8.'Comparison of Total Votes and Ratings for Movies and Shows by Production Country'
+  
   
