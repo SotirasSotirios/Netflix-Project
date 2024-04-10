@@ -13,10 +13,13 @@ A.Spreadsheets cleaning data:
   3. Standardizing Production Country Format i.e ['US'] to US
   4. Genre Data Transformation: Extraction of Main Genre. ie. ['western','action','european'] 
      to Western
+     
          i. Using Find and Replace to erase the symbols
+     
          ii. using excel formula: =LEFT(SUBSTITUTE(MID(A1,2,LEN(A1)-2),",",", 
             "),FIND(",",SUBSTITUTE(MID(A1,2,LEN(A1)-2),",",", "))-1) to keep only the first 
              word.
+     
          iii. create new column as "main_genre" and copy-paste only Values
 
 
