@@ -42,5 +42,16 @@ B. SQL Analysis:
     7.'Comparison of Total Votes for Movies and Shows by Production Country'
   
     8.'Comparison of Total Votes and Ratings for Movies and Shows by Production Country'
+
+C. Visualization with Tableau:
+
+  -- Two Dashboards containing the follow worksheets:--
   
-  
+    1. Average score by Type
+    2. Total votes by Genre & Type of Show  
+    3. Top 10 titles most voted titles (movies and shows combined)
+    4. Number of titles (movies and shows) released each year
+    5. Trend of total votes for titles released in the last 5 years
+    6. Distribution of genres for movies and shows
+    7. Average number of seasons for shows
+    8. Top 10 production countries with the highest average score 
